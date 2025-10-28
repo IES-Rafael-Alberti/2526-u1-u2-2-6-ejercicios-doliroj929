@@ -1,6 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/piQcrjzV)
 # Práctica 005 - Programación Modular y Algorítmica
 
+
+Nombre : Daniel Felipe Oliveros Rojas
+
+
+
 ## 📋 Descripción
 
 Esta práctica contiene **10 ejercicios** que combinan algorítmica y problemas del mundo real para desarrollar habilidades de programación estructurada y modular. Los ejercicios están diseñados para ser evaluados automáticamente mediante tests unitarios en GitHub Classroom.
